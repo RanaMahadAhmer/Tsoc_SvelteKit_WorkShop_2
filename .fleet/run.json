@@ -4,7 +4,7 @@
             "type": "command",
             "name": "Svelte",
             "program": "npm.cmd",
-            "args": ["run","dev","--host"],
+            "args": ["run","dev"],
         },
         
     ]
